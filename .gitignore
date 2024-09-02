@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Nsu.HackathonProblem.Contracts/Nsu.HackathonProblem.Contracts/obj
+/Nsu.HackathonProblem.Contracts/Nsu.HackathonProblem.Contracts/bin/Debug/net8.0
