@@ -6,5 +6,5 @@ using System.Threading.Tasks;
 
 namespace Nsu.HackathonProblem.Contracts
 {
-    public record Employee(int Id, string Name);
+    public record Wishlist(int EmployeeId, int[] DesiredEmployees);
 }
